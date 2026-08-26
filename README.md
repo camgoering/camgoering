@@ -16,4 +16,6 @@ purely software.
 - **ICS Vulnerability Analysis** — IEEE-format paper on a command-injection
   CVE in a solar monitoring platform, using STRIDE and MITRE ATT&CK for ICS.
 
-https://www.linkedin.com/in/camden-goering/ · camgoering@gmail.com
+https://www.linkedin.com/in/camden-goering/ 
+· 
+camgoering@gmail.com
