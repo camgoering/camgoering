@@ -4,8 +4,8 @@ CS major with a cybersecurity minor at the University of Tennessee, Knoxville,
 graduating 2027. Currently a technical intern at Applied Research Associates,
 working on computer vision and document-processing tooling.
 
-I'm most interested in cyber-physical systems — the security of the hardware
-and control systems that run physical infrastructure — and in work that isn't
+I'm most interested in cyber-physical systems, the security of the hardware
+and control systems that run physical infrastructure, and in work that isn't
 purely software.
 
 **Recent projects**
