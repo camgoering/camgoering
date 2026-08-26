@@ -11,11 +11,7 @@ purely software.
 **Recent projects**
 - **Reflex Racer** — 2D Unity/C# reaction-time game. Concept, sprite art,
   parallax system, and core gameplay loop.
-- **NBA Salary Prediction** — Python/scikit-learn regression comparison across
-  six models on scraped Basketball Reference data.
-- **ICS Vulnerability Analysis** — IEEE-format paper on a command-injection
-  CVE in a solar monitoring platform, using STRIDE and MITRE ATT&CK for ICS.
+- **[NBA Salary Prediction](https://github.com/Brett-Dowling/NBAsalaryPredictor)** — Python/scikit-learn    regression comparison across six models on scraped Basketball Reference data.
+- **ICS Vulnerability Analysis** — Three-person cyber-physical threat analysis of a command-injection CVE   in a solar monitoring platform. Presented the attack-path analysis; STRIDE and MITRE ATT&CK for ICS.
 
-https://www.linkedin.com/in/camden-goering/ 
-· 
-camgoering@gmail.com
+[LinkedIn](https://www.linkedin.com/in/camden-goering/) · camgoering@gmail.com
